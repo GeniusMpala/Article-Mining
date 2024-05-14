@@ -1,0 +1,6 @@
+streamlit
+requests
+feedparser
+scikit-learn
+numpy
+pandas
